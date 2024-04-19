@@ -9,7 +9,7 @@ public class DataProdiver1Test{
 	{
 		System.out.println(name+"  "+no);
 	}
-
+//
 	
 	@DataProvider
 	public Object[][] data()
